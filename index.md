@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/fedwards123/fedwardsActivity2.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fedwards123/fedwardsActivity2.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<head>
+	<meta charset="UTF-8">
+	<title>Sam and Lola</title>
+	<link href="styles.css" rel="stylesheet">
+</head
+<body>
+<br>
+<br>
+<h1>Sam and Lola - the best dogs in the world</h1>
+<br>
+<br>
+	<section>
+		<img src="dogs.jpg" alt="My dogs, Sam and Lola">
+		<br>
+		<p>
+		These two handsome dogs are Sam and Lola. They are both <a href="great_pyrenees.html">Great Pyrenees</a> mixes that weigh over 75 lbs. Sam and Lola have been a continual blessing in my life... at least once they got potty trained. They like to wrestle with each other and knock stuff over in my living room! There is never a dull moment with these two dogs in my house.
+		</p>
+		<p>
+		In conclusion, my dogs are:
+		<li>Large</li>
+		<li>Entertaining</li>
+		<li>Cute</li>
+		Basically the best dogs in the world
+		</p>
+	</section>
+</body>
+</html>
