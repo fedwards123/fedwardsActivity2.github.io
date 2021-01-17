@@ -16,7 +16,7 @@
 		</p>
 <br>
 <br>
-<a href="index.html">back</a>
+<a href="index.md">back</a>
 	</section>
 </body>
 </html>
