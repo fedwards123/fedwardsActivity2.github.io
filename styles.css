@@ -1,0 +1,27 @@
+html{
+	font-size: 12px;
+	font-family: "Arial", sans-serif;
+}
+h1{
+	fontsize: 24px;
+	text-align: center;
+}
+li{
+	text-color: blue;
+	font-size: 12;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+p{
+	font-size: 12;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+body{
+	width: 800px;
+	margin: 0 auto;
+	padding: 0 10px 10px 10px;
+}
+img{
+	max-width: 100%
+}
