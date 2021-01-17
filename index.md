@@ -16,7 +16,7 @@
 		<img src="dogs.jpg" alt="My dogs, Sam and Lola">
 		<br>
 		<p>
-		These two handsome dogs are Sam and Lola. They are both <a href="great_pyrenees.html">Great Pyrenees</a> mixes that weigh over 75 lbs. Sam and Lola have been a continual blessing in my life... at least once they got potty trained. They like to wrestle with each other and knock stuff over in my living room! There is never a dull moment with these two dogs in my house.
+		These two handsome dogs are Sam and Lola. They are both <a href="great_pyrenees.md">Great Pyrenees</a> mixes that weigh over 75 lbs. Sam and Lola have been a continual blessing in my life... at least once they got potty trained. They like to wrestle with each other and knock stuff over in my living room! There is never a dull moment with these two dogs in my house.
 		</p>
 		<p>
 		In conclusion, my dogs are:
